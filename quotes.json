@@ -1,14 +1,10 @@
-[
-  {
-    "quote": "Believe in yourself.",
-    "author": "Unknown"
-  },
-  {
-    "quote": "নিজেকে বিশ্বাস করুন।",
-    "author": "অজানা"
-  },
-  {
-    "quote": "The journey of a thousand miles begins with one step.",
-    "author": "Lao Tzu"
-  }
-]
+{
+  "en": [
+    { "quote": "Believe in yourself.", "author": "Anonymous" },
+    { "quote": "Stay hungry, stay foolish.", "author": "Steve Jobs" }
+  ],
+  "bn": [
+    { "quote": "নিজেকে বিশ্বাস করুন।", "author": "অজানা" },
+    { "quote": "সফলতা কঠোর পরিশ্রমের ফল।", "author": "অজানা" }
+  ]
+}
